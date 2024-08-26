@@ -1,1 +1,1 @@
-# dakboard-compact
+# dakboard-compact-hw
